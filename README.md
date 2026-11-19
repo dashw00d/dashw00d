@@ -97,7 +97,7 @@ Everything here runs on your own machine. No accounts, no cloud round trips.
 | [**no-nonsense-orchestration**](https://github.com/dashw00d/no-nonsense-orchestration) | Autonomous AI agent orchestration with a single cron job and a SQLite task board |
 | [**go-ask-a-stranger**](https://github.com/dashw00d/go-ask-a-stranger) | MCP server for anonymous Q&A roulette |
 | [**coolify-migration-kit**](https://github.com/dashw00d/coolify-migration-kit) | Templates and a runbook for moving a PHP 8.3 + SQLite Laravel app from a traditional host to a Coolify VPS, ~1 minute deploys |
-| [**arclab**](https://github.com/dashw00d/arclab) | A cautionary tale: serving LLMs on 3x Intel Arc A770, with benchmarks, tools and hand-patched kernels. Please do not buy Arc for this. |
+| [**arclab**](https://github.com/dashw00d/arclab) | A cautionary tale: serving LLMs on 3x Intel Arc A770, with the benchmarks, tools and patches it took. Please do not buy Arc for this. |
 
 ## From the blog
 
