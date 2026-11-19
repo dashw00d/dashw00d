@@ -99,6 +99,18 @@ Everything here runs on your own machine. No accounts, no cloud round trips.
 | [**coolify-migration-kit**](https://github.com/dashw00d/coolify-migration-kit) | Templates and a runbook for moving a PHP 8.3 + SQLite Laravel app from a traditional host to a Coolify VPS, ~1 minute deploys |
 | [**ipex-from-scratch**](https://github.com/dashw00d/ipex-from-scratch) | Clean-room reconstruction and port scaffold of IPEX monolithic decode kernels |
 
+## From the blog
+
+I write up what I build: almost 400 build logs on architecture decisions, debugging and production tradeoffs. Some recent ones:
+
+- [Proposal Redesign, Remote SpeechEdit Editing, and Live Project Demos](https://dashwood.net/blog/2026-09-12-proposal-redesign-remote-speechedit-editing-and-live-project-demos/) <sub>Sep 2026</sub>
+- [The Postmark Cutover, Backups, and Unified Health Checks](https://dashwood.net/blog/2026-09-09-the-postmark-cutover-backups-and-unified-health-checks/) <sub>Sep 2026</sub>
+- [ServerChirp Rollout, Mobile OTA Recovery, and Password Recovery](https://dashwood.net/blog/2026-09-04-serverchirp-rollout-mobile-ota-recovery-and-password-recovery/) <sub>Sep 2026</sub>
+- [Per-Domain Postmark Servers and IMAP Folder Isolation](https://dashwood.net/blog/2026-09-02-per-domain-postmark-servers-and-imap-folder-isolation/) <sub>Sep 2026</sub>
+- [Starting Fiction Codec: Multi-Format Book Ingestion](https://dashwood.net/blog/2026-08-30-starting-fiction-codec-multi-format-book-ingestion/) <sub>Aug 2026</sub>
+
+**[Read all posts →](https://dashwood.net/blog/)**
+
 ## About me
 
 I've spent the last several years as the sole engineer behind production web systems for small businesses: hosting, data pipelines, automation and the apps people actually use every day. A few results from that work:
